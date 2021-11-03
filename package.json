@@ -8,9 +8,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/core": "^0.8.0",
+    "@chakra-ui/react": "^1.6.10",
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
+    "@hookform/resolvers": "^2.8.3",
+    "axios": "^0.24.0",
+    "framer-motion": "^5.0.2",
     "next": "12.0.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.18.1",
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "@types/node": "16.11.6",
